@@ -46,7 +46,7 @@ $(document).ready(function(){
 <!--header-->
 <?php  include($_SERVER["DOCUMENT_ROOT"]."/common/inc/header.php"); ?>
 <!--/header-->
-123
+123456
 <div id="main" class="clearfix">
 <div id="content">
 	<p class="lead">追加和に遊ぶ！日本伝統文化を、今、気軽に(でも真剣に)遊びます。あなたも参加してみませんか？テスト2回目</p>
