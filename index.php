@@ -16,19 +16,19 @@
 <![endif]-->
 
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
- 
+
 <!-- スライドショー -->
 <script type="text/javascript" src="common/js/jquery.bxslider.min.js"></script>
 <link rel="stylesheet" type="text/css" media="screen and (min-width: 801px)" href="css/jquery.bxslider.css" />
 <link rel="stylesheet" type="text/css" media="screen and (max-width: 800px)" href="css/jquery.bxslider_sp.css" />
 <script type="text/javascript">
 
-$(document).ready(function(){ 
-    $('.bxslider').bxSlider({ 
-    auto: true,//自動切り替えの有無 
+$(document).ready(function(){
+    $('.bxslider').bxSlider({
+    auto: true,//自動切り替えの有無
 	pause:  5500,
-    }); 
-  }); 
+    });
+  });
 
 </script>
 </head>
@@ -46,18 +46,18 @@ $(document).ready(function(){
 <!--header-->
 <?php  include($_SERVER["DOCUMENT_ROOT"]."/common/inc/header.php"); ?>
 <!--/header-->
-
+123
 <div id="main" class="clearfix">
 <div id="content">
 	<p class="lead">追加和に遊ぶ！日本伝統文化を、今、気軽に(でも真剣に)遊びます。あなたも参加してみませんか？テスト2回目</p>
-          <!--▼ソーシャルボタン-->            
-		  <div class="social clearfix">       
+          <!--▼ソーシャルボタン-->
+		  <div class="social clearfix">
 			<div class="tweet"><a href="https://twitter.com/share" target="_blank"><img src="common/img/btn_tweet.gif" alt="アイコン"/></a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div>
 			<div class="facebook"><a href="http://www.facebook.com/share.php?u=http://uz-inc.net/takenowa/" onclick="window.open(this.href, 'FBwindow', 'width=650, height=450, menubar=no, toolbar=no, scrollbars=yes'); return false;"><img src="common/img/btn_facebook.gif" width="29" height="28" alt="アイコン"/></a></div>
 			<!--<div class="facebook_share"></div>-->
-		  </div>           
+		  </div>
 		  <!--▲ソーシャルボタン-->
-    
+
     <section id="top">
     	<div class="slide">
         	<ul class="bxslider">
@@ -84,7 +84,7 @@ $(document).ready(function(){
                 </li>
 			</ul>
         </div><!--/slide-->
-        
+
         <div class="right">
         	<div class="tokushu">
             <div class="text clearfix">
@@ -94,9 +94,9 @@ $(document).ready(function(){
             </div><!--/text-->
             </div><!--/tokushu-->
         </div><!--/right-->
-        
+
     </section><!--/top-->
-    
+
     <section id="table01">
         	<ul class="clearfix">
             	<li class="clearfix">
@@ -164,7 +164,7 @@ $(document).ready(function(){
                 </li>
             </ul>
     </section><!--/table01-->
-    
+
     <section id="table02">
         	<ul class="clearfix">
            	  <li class="clearfix">
@@ -211,7 +211,7 @@ $(document).ready(function(){
             	<li class="btn clearfix"><a href="#"><img src="img/btn_shop.gif" alt="お買い物はこちらから" class="hoverImg"/></a></li>
             </ul>
     </section><!--/table02-->
-    
+
 <script type="text/javascript" src="js/matchMedia.js"></script>
 <script type="text/javascript" src="js/matchMedia.addListener.js"></script>
 <script type="text/javascript">
@@ -233,19 +233,19 @@ jQuery(document).ready(function($) {
 	};
 });
 </script>
- 
- 	<section>   
+
+ 	<section>
 		<div class="facebook-page"><div class="fb-page" data-href="https://www.facebook.com/takenowa" data-width="500" data-height="271" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/takenowa"><a href="https://www.facebook.com/takenowa">和に遊ぶ！竹ノ輪</a></blockquote></div></div></div>
 	</section>
-    
-          <!--▼ソーシャルボタン-->            
-		  <div class="social_sp clearfix">       
+
+          <!--▼ソーシャルボタン-->
+		  <div class="social_sp clearfix">
 			<div class="tweet"><a href="https://twitter.com/share" target="_blank"><img src="common/img/btn_tweet.gif" alt="アイコン"/></a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div>
 			<div class="facebook"><a href="http://www.facebook.com/share.php?u=http://uz-inc.net/takenowa/" onclick="window.open(this.href, 'FBwindow', 'width=650, height=450, menubar=no, toolbar=no, scrollbars=yes'); return false;"><img src="common/img/btn_facebook.gif" alt="アイコン"/></a></div>
 			<!--<div class="facebook_share"></div>-->
-		  </div>           
+		  </div>
 		  <!--▲ソーシャルボタン-->
-    
+
 </div><!--/content-->
 </div><!--/main-->
 
