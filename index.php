@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta name="Keywords" content="">
 <meta name="Description" content="">
-<title>竹ノ輪111111マスター編集</title>
+<title>竹ノ輪111111マスター編集2</title>
 <link rel="stylesheet" type="text/css" media="screen and (min-width: 801px)" href="common/css/common.css" />
 <link rel="stylesheet" type="text/css" media="screen and (max-width: 800px)" href="common/css/common_sp.css" />
 <link rel="stylesheet" type="text/css" media="screen and (min-width: 801px)" href="css/index_pc.css" />
