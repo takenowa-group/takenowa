@@ -49,7 +49,7 @@ $(document).ready(function(){
 123456
 <div id="main" class="clearfix">
 <div id="content">
-	<p class="lead">追加和に遊ぶ！日本伝統文化を、今、気軽に(でも真剣に)遊びます。あなたも参加してみませんか？テスト2回目</p>
+	<p class="lead">8/10追加和に遊ぶ！日本伝統文化を、今、気軽に(でも真剣に)遊びます。あなたも参加してみませんか？テスト2回目</p>
           <!--▼ソーシャルボタン-->
 		  <div class="social clearfix">
 			<div class="tweet"><a href="https://twitter.com/share" target="_blank"><img src="common/img/btn_tweet.gif" alt="アイコン"/></a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div>
