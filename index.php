@@ -167,10 +167,26 @@ test 3
                     <p class="img"><a href="#"><img src="img/banner_entame01.jpg" alt="" class="hoverImg"/><br>いただきます。八海山と七草粥。</a></p>
                     <p class="text">コンテンツ説明が入ります。コンテンツ説明が入ります。コンテンツ説明が入ります。コンテンツ説明が入ります。</p>
                 </li>
-            	<li class="clearfix">
-                	<p class="icon"><img class="take" src="common/img/icon_blog.png" alt="アイコン" /><a href="#">竹ノ輪ブログ</a> ＞ 読み物</p>
+              <li class="clearfix">
+                  <p class="icon"><img class="take" src="common/img/icon_blog.png" alt="アイコン" /><a href="#">竹ノ輪ブログ</a> ＞ 読み物</p>
                     <p class="img"><a href="#"><img src="img/banner_entame01.jpg" alt="" class="hoverImg"/><br>はじめての歌舞伎観劇 VOL.1</a></p>
                     <p class="text">コンテンツ説明が入ります。コンテンツ説明が入ります。コンテンツ説明が入ります。コンテンツ説明が入ります。</p>
+                </li>             <li class="clearfix">
+                  <p class="icon"><img class="take" src="common/img/icon_blog.png" alt="アイコン" /><a href="#">竹ノ輪ブログ</a> ＞ 読み物</p>
+                    <p class="img"><a href="#"><img src="img/banner_entame01.jpg" alt="" class="hoverImg"/><br>はじめての歌舞伎観劇 VOL.1</a></p>
+                    <p class="text">コンテンツ説明が入ります。コンテンツ説明が入ります。コンテンツ説明が入ります。コンテンツ説明が入ります。</p>
+                </li>             <li class="clearfix">
+                  <p class="icon"><img class="take" src="common/img/icon_blog.png" alt="アイコン" /><a href="#">竹ノ輪ブログ</a> ＞ 読み物</p>
+                    <p class="img"><a href="#"><img src="img/banner_entame01.jpg" alt="" class="hoverImg"/><br>はじめての歌舞伎観劇 VOL.1</a></p>
+                    <p class="text">コンテンツ説明が入ります。コンテンツ説明が入ります。コンテンツ説明が入ります。コンテンツ説明が入ります。</p>
+                </li>             <li class="clearfix">
+                  <p class="icon"><img class="take" src="common/img/icon_blog.png" alt="アイコン" /><a href="#">竹ノ輪ブログ</a> ＞ 読み物</p>
+                    <p class="img"><a href="#"><img src="img/banner_entame01.jpg" alt="" class="hoverImg"/><br>はじめての歌舞伎観劇 VOL.1</a></p>
+                    <p class="text">コンテンツ説明が入ります。コンテンツ説明が入ります。コンテンツ説明が入ります。コンテンツ説明が入ります。</p>
+                </li>            	<li class="clearfix">
+                	<p class="icon"><img class="take" src="common/img/icon_blog.png" alt="アイコン" /><a href="#">竹ノ輪ブログ</a> ＞ 読み物</p>
+                    <p class="img"><a href="#"><img src="img/banner_entame01.jpg" alt="" class="hoverImg"/><br>はじめての歌舞伎観劇 VOL.1</a></p>
+                    <p class="text">テスト</p>
                 </li>
             </ul>
     </section><!--/table01-->
