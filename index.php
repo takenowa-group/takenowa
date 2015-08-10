@@ -53,7 +53,7 @@ $(document).ready(function(){
 	<p class="lead">&nbsp;</p>
 	<p class="lead">&nbsp;</p>
 	<p class="lead">&nbsp;</p>
-	<p class="lead">テスト2回目<br>
+	<p class="lead">テスト4回目<br>
 	  8/10追加和に遊ぶ！日本伝統文化を、今、気軽に(でも真剣に)遊びます。あなたも参加してみませんか？テスト2回目</p>
 
 
